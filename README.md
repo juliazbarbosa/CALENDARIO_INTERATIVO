@@ -5,7 +5,7 @@
 ## Demonstração
 ![Preview do Calendário](./assets/preview.png)
 
-🔗 **Deploy ao vivo:** [juliazbarbosa.github.io/CALENDARIO_INTERATIVO](https://juliazbarbosa.github.io/CALENDARIO_INTERATIVO)
+🔗 **Deploy ao vivo:** [juliazbarbosa.github.io/CALENDARIO_ACADEMICO](https://juliazbarbosa.github.io/CALENDARIO_ACADEMICO)
 
 ## Funcionalidades
 
